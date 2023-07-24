@@ -29,4 +29,13 @@ p {
   padding: 0;
   text-align: center;
 }
-  
+
+h1 {
+  color: #ffffff; /* Replace this with the desired text color */
+  font-family: Consolas, monaco, monospace;
+  font-size: 32px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
